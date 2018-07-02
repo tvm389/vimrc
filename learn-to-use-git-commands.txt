@@ -1,0 +1,5 @@
+git init
+git add learn-to-use-git-commands.txt
+git commit -m "added file to a github repository"
+git remote add origin https://github.com/tvm389/vimrc.git
+git push -u origin master
